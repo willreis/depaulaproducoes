@@ -1,0 +1,32 @@
+# Translation of Themes - vdequator in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - vdequator package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-16 15:32:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - vdequator\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme ideal for creating a corporate or business website. Vdequator is a child theme of BusiProf WordPress Theme with a white background. Vdequator is available in different locales."
+msgstr "Um tema de negócios ideal para criar um site corporativo ou empresarial. Vdequator é um tema filho do tema BusiProf do WordPress com um fundo branco. O Vdequator está disponível em diferentes idiomas."
+
+#. Theme Name of the plugin/theme
+msgid "vdequator"
+msgstr "vdequator"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/vdequator-details-page/"
+msgstr "https://webriti.com/vdequator-details-page/"
